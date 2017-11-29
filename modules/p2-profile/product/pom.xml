@@ -169,6 +169,9 @@
                                 <featureArtifactDef>
                                     com.wso2telco.dep:com.wso2telco.dep.publisher.ui.feature:${com.wso2telco.dep.version}
                                 </featureArtifactDef>
+								<featureArtifactDef>
+                                    com.wso2telco.dep:com.wso2telco.dep.admin.ui.feature:${com.wso2telco.dep.version}
+                                </featureArtifactDef>
                                 <featureArtifactDef>
                                     com.wso2telco.dep:com.wso2telco.dep.sandbox.ui.feature:${com.wso2telco.dep.version}
                                 </featureArtifactDef>
@@ -943,6 +946,10 @@
                                     <id>com.wso2telco.dep.publisher.ui.feature.group</id>
                                     <version>${com.wso2telco.dep.version}</version>
                                 </feature>
+								<feature>
+                                    <id>com.wso2telco.dep.admin.ui.feature.group</id>
+                                    <version>${com.wso2telco.dep.version}</version>
+                                </feature>
                                 <feature>
                                     <id>com.wso2telco.dep.sandbox.ui.feature.group</id>
                                     <version>${com.wso2telco.dep.version}</version>
@@ -1597,6 +1604,10 @@
                                     <id>com.wso2telco.dep.publisher.ui.feature.group</id>
                                     <version>${com.wso2telco.dep.version}</version>
                                 </feature>
+								<feature>
+                                    <id>com.wso2telco.dep.admin.ui.feature.group</id>
+                                    <version>${com.wso2telco.dep.version}</version>
+                                </feature>
                                 <feature>
                                     <id>com.wso2telco.dep.sandbox.ui.feature.group</id>
                                     <version>${com.wso2telco.dep.version}</version>
@@ -2026,6 +2037,10 @@
                                 </feature>
                                 <feature>
                                     <id>com.wso2telco.dep.publisher.ui.feature.group</id>
+                                    <version>${com.wso2telco.dep.version}</version>
+                                </feature>
+								<feature>
+                                    <id>com.wso2telco.dep.admin.ui.feature.group</id>
                                     <version>${com.wso2telco.dep.version}</version>
                                 </feature>
                                 <feature>
@@ -2471,6 +2486,10 @@
                                 </feature>
                                 <feature>
                                     <id>com.wso2telco.dep.publisher.ui.feature.group</id>
+                                    <version>${com.wso2telco.dep.version}</version>
+                                </feature>
+								<feature>
+                                    <id>com.wso2telco.dep.admin.ui.feature.group</id>
                                     <version>${com.wso2telco.dep.version}</version>
                                 </feature>
                                 <feature>
@@ -3025,6 +3044,10 @@
                                     <id>com.wso2telco.dep.publisher.ui.feature.group</id>
                                     <version>${com.wso2telco.dep.version}</version>
                                 </feature>
+								<feature>
+                                    <id>com.wso2telco.dep.admin.ui.feature.group</id>
+                                    <version>${com.wso2telco.dep.version}</version>
+                                </feature>
                                 <feature>
                                     <id>com.wso2telco.dep.sandbox.ui.feature.group</id>
                                     <version>${com.wso2telco.dep.version}</version>
@@ -3565,6 +3588,10 @@
                                     <id>com.wso2telco.dep.publisher.ui.feature.group</id>
                                     <version>${com.wso2telco.dep.version}</version>
                                 </feature>
+								<feature>
+                                    <id>com.wso2telco.dep.admin.ui.feature.group</id>
+                                    <version>${com.wso2telco.dep.version}</version>
+                                </feature>
                                 <feature>
                                     <id>com.wso2telco.dep.sandbox.ui.feature.group</id>
                                     <version>${com.wso2telco.dep.version}</version>
@@ -4047,6 +4074,10 @@
                                 </feature>
                                 <feature>
                                     <id>com.wso2telco.dep.publisher.ui.feature.group</id>
+                                    <version>${com.wso2telco.dep.version}</version>
+                                </feature>
+								<feature>
+                                    <id>com.wso2telco.dep.admin.ui.feature.group</id>
                                     <version>${com.wso2telco.dep.version}</version>
                                 </feature>
                                 <feature>
